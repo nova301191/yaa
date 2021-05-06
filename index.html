@@ -1,0 +1,530 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>
+			Rawaitu Parking  </title>
+		
+		<link rel="shortcut icon" href="img/favicon.ico" />
+		<link rel="icon" href="img/favicon.ico" />
+		<link rel="alternate" type="application/rss+xml" title="RSS feed" href="rss.html" />
+		<link type="text/css" rel="stylesheet" href="css/screen.css" media="screen, projection" />
+		<link rel="STYLESHEET" type="text/css" href="css/contact.css" />
+
+		<meta name="robots" content="index, follow" />
+		<meta name="keywords" content="SECURE PARKING INDONESIA, Parkir, Aman, Secure" />
+		<meta name="description" content="SECURE PARKING - PT. Securindo Packatama Indonesia" /> 
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="Content-Language" content="id-en" />
+		<meta http-equiv="imagetoolbar" content="no" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="viewport" content="width=device-width; initial-scale=1.0;" />
+		
+		<script type="text/javascript" src="js/new/modernizr-plus-has-flash.min.js"></script>
+		<script type='text/javascript' src='js/new/gen_validatorv31.js'></script>
+		<script type='text/javascript' src='js/new/fg_captcha_validator.js'></script>
+		
+		
+	</head>
+
+	<body>
+		<div id="page-wrapper">
+			<div id="page">
+				<div id="header">
+					<div class="position">
+						<div class="content">
+							<div class="top-bar">
+								<div class="top-nav">
+									<ul>
+	<li><a href="tentangkami.php">TENTANG KAMI</a></li>
+	<li><a href="kontak.php">KONTAK</a></li>
+	<!-- <li class="last"><a href="karir.php">KARIR</a></li> -->
+</ul>								</div>
+							</div>
+							
+							<div class="brand">
+								<h2 style="background-image:url('images/llogo1.png');">
+									<a href="http://107rawalitu.infinityfreeapp.com/public/"></a>rawalitu Parking</a>
+								</h2>
+							</div>
+							<div class="print-brand">
+							
+								<img src="images/logo2.png?h=41&amp;w=205" alt="rawalitu parking" width="205" height="41" title="rawalitu parking" />
+							</div>
+							<div class="primary-nav">
+								<ul>
+									<li><a href="http://rawalitu.great-site.net/public/" class="anchor9" title="Home"><span class="large">Home</span></a>
+									<li><a href="asal-mula.php" class="anchor10" title="Asal Mula"><span class="large">Asal Mula</span></a>
+									<li><a href="visimisi.php" class="anchor7" title="Visi &amp; Misi"><span class="large">Visi &amp; Misi</span></a>
+									<li><a href="berita.php" class="anchor11" title="Berita"><span class="large">Berita</span></a>
+									<li><a href="promosi.php" class="anchor2" title="Promosi"><span class="large">Promosi</span></a>
+									<li><a href="karir.php" class="anchor3" title="Karir"><span class="large">Karir</span></a>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				
+				
+				<div id="body">
+    <div class="position">
+        <div class="content">
+            <div class="breadcrumb">
+				<ul>
+					<li><a href="index.php">"HOME"</a></li>
+					<li class="last">"BERITA"</li>
+				</ul>
+			</div>
+			<div class="social-bookmark">
+				<span>BERITA TERKINI :</span>
+			</div>
+			<div class="main-wrap">
+				<div class="main">
+					<div class="main-inside">
+						<div class="primary-aside">
+							<h3><a href="#">liputan news</a></h3>
+							<div class="aside-nav">
+								<ul>
+								<li><a href='berita-detail.php?newsid=53'>"Kerjasama Promosi Rawalitu Parking dengan GoPay</a></li><li><a href='berita-detail.php?newsid=52'>"Pengintegrasian Gerbang Pembayaran Nasional (GPN) untuk Pembayaran Parkir</a></li><li><a href='berita-detail.php?newsid=51'>"Rawalitu Parking New Normal </a></li><li><a href='berita-detail.php?newsid=50'>"Kesepakatan Kerjasama Rawalitu Parking dan "CariParkir" dari Astra Digital</a></li><li><a href='berita-detail.php?newsid=49'>"Kusala Sastra Khatulistiwa 2019</a></li>								</ul>							</div>
+						</div>
+						<div class="primary-content">
+							<h1>Index Berita</h1>
+							
+							<div class="description">
+	
+</div>
+<div class="item-list">
+			<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=53" class="">KERJASAMA PROMOSI RAWALITU PARKING dengan GOPAY</a>
+			</h5>
+			<img src="images_news/1.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Kerjasama promosi antara Rawalitu Parking dan GoPay dimulai sejak Agustus 2019 dengan lokasi perdana Mal Puri Indah seiring dengan mulai dapat dipergunakannya GoPay sebagai alat pembayaran parkir digital di lokasi pengelolaan Rawalitu Parking. </p>
+			<a href="berita-detail.php?newsid=53" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=52" class="">INTREGASI GERBANG PEMBAYARAN NASIONAL (GPN) UNTUK PEMBAYARAN PARKIR</a>
+			</h5>
+			<img src="images_news/2.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Integrasi sistem pembayaran menjadi penting terutama sejak diluncurkannya Gerbang Pembayaran Nasional (GPN) oleh Bank Indonesia (BI).</p>
+			<a href="berita-detail.php?newsid=52" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=51" class="">RAWALITU PARKING New Normal </a>
+			</h5>
+			<img src="images_news/3.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Pandemi covid-19 membuat aktifitas ekonomi dan produktifitas masyarakat mengalami penurunan secara signifikan. Pemerintah Provinsi DKI yang memutuskan DKI Jakarta beranjak keluar dari masa PSBB (Pembatasan Sosial Berskala Besar) dan memasuki PSBB transisi memberikan kesempatan untuk masyarakat dapat mulai memulihkan kegiatan ekonomi sehari-sehari mereka.</p>
+			<a href="berita-detail.php?newsid=51" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=50" class="">Kesepakatan Kerjasama Rawalitu Parking dan CariParkir dari Astra Digital</a>
+			</h5>
+			<img src="images_news/4.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Di Awal tahun 2020 ini, Rawalitu Parking melakukan kerjasama dengan layanan digital CariParkir yang merupakan produk Astra Digital Internasional. Bertempat di Menara Astra, Jakarta pada tanggal 9 Maret 2020, penandatanganan kemitraan ini dilakukan secara langsung oleh Managing Director PT.Rawalitu Parking </p>
+			<a href="berita-detail.php?newsid=50" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=49" class="">Kusala Sastra Khatulistiwa 2019</a>
+			</h5>
+			<img src="images_news/5.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Penghargaan sastra Kusala Sastra Khatulistiwa (KSK) memasuki edisi yang ke-19 tahun ini. Bertempat di Atrium Plaza Senayan, Jakarta pada 16 Oktober 2019, malam puncak penganugerahan KSK diselenggarakan untuk mengumumkan pemenang 2 (dua) kategori penghargaan yaitu kategori prosa dan kategori puisi. </p>
+			<a href="berita-detail.php?newsid=49" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=48" class="">Kesepakatan Kerjasama Rawalitu Parking dengan DANA</a>
+			</h5>
+			<img src="images_news/6.png" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Melengkapi opsi alat pembayaran non tunai untuk pengguna parkirnya, Rawalitu Parking menjalin kesepakatan kerjasama dengan DANA.</p>
+			<a href="berita-detail.php?newsid=48" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=47" class="">Bayar Parkir dengan Gopay</a>
+			</h5>
+			<img src="images_news/7.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Kini bayar parkir di lokasi pengelolaan Rawalitu Parking dapat menggunakan alat pembayaran GoPay dengan menggunakan aplikasi Gojek.</p>
+			<a href="berita-detail.php?newsid=47" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=46" class="">Seminar dan Musyawarah Nasional APPBI 2019 </a>
+			</h5>
+			<img src="images_news/8.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Bertempat di Ballroom Grand Sheraton Hotel, Gandaria City, Jakarta Asosiasi Pengelola Pusat Belanja Indonesia (APPBI) menyelenggarakan Seminar dan Musyawarah Nasional pada Kamis, 28 Pebruari 2019 lalu. Acara dibuka oleh sambutan Bapak Stefanus Ridwan selaku Ketua Umum DPP APPBI.</p>
+			<a href="berita-detail.php?newsid=46" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=45" class="">Council of Asian Shopping Centre (CASC) Conference 2019</a>
+			</h5>
+			<img src="images_news/9.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Council of Asian Shopping Centre (CASC) Conference 2019 yang bertema "Bagaimana Pusat Belanja Tetap Relevan" telah berlangsung secara sukses. Bertempat di Sheraton Kuta Bali Resort, Bali dari tanggal 25 - 26 September 2018, konferensi antar pusat belanja di kawasan Asia ini merupakan kegiatan bergengsi yang menjadi ajang temu tahunan untuk para pemilik dan manajemen pusat belanja di kawasan Asia</p>
+			<a href="berita-detail.php?newsid=45" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=44" class="">Penerapan Bayar Parkir dengan BRIZZI BRI</a>
+			</h5>
+			<img src="images_news/10.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Per 8 September 2018, pengguna jasa parkir Rawalitu Parking memiliki semakin banyak pilihan untuk melakukan pembayaran parkir secara tunai. Bekerjasama dengan BRI, kini para pengguna jasa parkir di lokasi-lokasi pengelolaan Rawalitu Parking dapat menggunakan BRIZZI sebagai alat pembayaran parkirnya. </p>
+			<a href="berita-detail.php?newsid=44" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=43" class="">Kesepakatan Kerjasama Rawalitu Parking dan Go-Pay</a>
+			</h5>
+			<img src="images_news/11.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Terus mengembangkan potensi dan kesempatan cashless system, Rawalitu Parking terus berusaha untuk menambah opsi para pengguna jasa parkir guna menuju cashless society.</p>
+			<a href="berita-detail.php?newsid=43" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=42" class="">FESTIVAL JAKARTA GREAT SALE 2019 MENYEMARAKKAN ASIAN GAMES 2018</a>
+			</h5>
+			<img src="images_news/12.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Asosiasi Pengelola Pusat Belanja Indonesia (APPBI) bekerjasama dengan Pemerintah Provinsi DKI Jakarta akan kembali menggelar kegiatan hajatan wisata belanja terbesar di Jakarta dan bahkan tanah air, Festival Jakarta Great Sale (FJGS) 2018. Ajang pesta diskon berskala besar ini akan berlangsung selama hampir satu bulan, mulai dari 12 Agustus hingga 4 September 2018 dengan menawarkan aneka diskon untuk aneka produk hingga 70 persen</p>
+			<a href="berita-detail.php?newsid=42" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=41" class="">SEMINAR DAN RAKERNAS DPP APPBI 2018</a>
+			</h5>
+			<img src="images_news/13.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Asosiasi Pengelola Pusat Belanja Indonesia (APPBI) menyelenggarakan Seminar dan Rakernas (Rapat Kerja Nasional) dengan agenda mengupas evolusi pusat belanja di Indonesia yang berlangsung di Sheraton Grand Jakarta, Gandaria City Hotel, 12 -13 April 2018 lalu. Bertemakan “The Next Generation Of Shopping Center”, acara ini dihadiri lebih dari 400 undangan yang merupakan pengelola pusat belanja dari seluruh Indonesia</p>
+			<a href="berita-detail.php?newsid=41" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=40" class="">Jakarta Food and Fashion Festival 2018</a>
+			</h5>
+			<img src="images_news/14.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Kabar gembira untuk para penggemar fashion dan kuliner di Jakarta, event tahunan Jakarta Fashion & Food Festival (JFFF, dibaca: je-ef-tri) 2018 kembali digelar. diselenggarakan di Summarecon Kelapa Gading, Jakarta Utara, selama satu bulan penuh dari 5 April hingga 6 Mei 2018, JFFF 2018 merupakan hasil kerjasama PT Summarecon Agung Tbk dengan Pemerintah Provinsi DKI Jakarta melalui Dinas Pariwisata dan Kebudayaan Provinsi DKI Jakarta.</p>
+			<a href="berita-detail.php?newsid=40" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=39" class="">Kusala Sastra Khatulistiwa 2017</a>
+			</h5>
+			<img src="images_news/15.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Malam Puncak Anugerah Kusala Sastra Khatulistiwa (KSK) ke-17 berlangsung pada Rabu malam, 25 Oktober 2017 di Atrium Plaza Senayan.</p>
+			<a href="berita-detail.php?newsid=39" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=38" class="">TechCon 17 Rawalitu Parking International - Ajang Pertemuan Secure Parking Dari berbagai Negara </a>
+			</h5>
+			<img src="images_news/16.png" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Selama Tanggal 1- 4 Nopember 2017 telah dilaksanakan Technology Conference 2017 (TechCon 17) di World Square, Rydges Hotel, Sydney - Australia. Melanjutkan TechCon 2013 lalu, event yang secara periodik dilaksanakan ini merupakan pertemuan para pimpinan Secure Parking dari semua negara operasional Secure Parking dengan penekanan pada topik teknologi.</p>
+			<a href="berita-detail.php?newsid=38" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=37" class="">Pembukaan Wonderful Indonesia Culinary and Shopping Festival 2017</a>
+			</h5>
+			<img src="images_news/17.png" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Berita gmbira bagi para pencinta belanja dan kuliner. Kementerian Pariwisata (Kemenpar) bekerjasama dengan Asosiasi Pengelola Pusat Belanja Indonesia (APPBI) menggelar acara Wonderful Indonesia Culinary and Shopping Festival (WICSF) 2017. Di tahun ke-2 penyelenggaraannya, WICSF 2017 yang mengusung tema &ldquo;Savor The Captivating Flavor and Big Discount&rdquo; diselenggarakan selama sebulan penuh mulai tanggal 27 September &ndash; 27 Oktober 2017 yang digelar secara serentak di lebih dari 100 </p>
+			<a href="berita-detail.php?newsid=37" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=36" class="">Anugerah Penghargaan SMK</a>
+			</h5>
+			<img src="images_news/18.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Anugerah Penghargaan kepada Petugas Rawalitu Parking Supermal Karawaci bernama Rowi Darwis sebagai Juara 1 "The Best Frontliners" dan Ida F sebagai Juara Harapan I yang diselenggarakan Supermal Karawaci bertempat di Grand Atrium Stage pada 20 Juni 2017.</p>
+			<a href="berita-detail.php?newsid=36" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=35" class="">Bingkisan Hari Raya Manajemen Properti</a>
+			</h5>
+			<img src="images_news/19.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Menjelang Hari Raya Idul Fitri lalu beberapa manajemen properti seperti Summarecon Mal Kelapa Gading, Summarecon Mal Serpong, Senayan City dan Kuningan City berbagi kebahagiaan dengan mengadakan beberapa acara yang membagikan bingkisan hari raya kepada para karyawan outsource-nya. Acara yang menebar kebahagian ini selalu dihadiri oleh Para Direksi dari masing-masing manajemen properti. GM HRD Rawalitu Parking Bapak Perryanto Wahyudi juga ikut hadir di Summarecon Mal Serpong.</p>
+			<a href="berita-detail.php?newsid=35" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+				<div id="content_0_middlecontent_0_rptResults_pnlItemWrapper_0" class="item">
+		<div class="text">
+			<h5 style="padding:10px">
+				<a href="berita-detail.php?newsid=34" class="">Festival Jakarta Great Sale 2017 - 12 Hotel Turut Bergabung </a>
+			</h5>
+			<img src="images_news/20.jpg" width="171" height="110" align="left" border="0" style="margin:0 6px 4px 0;">
+			<p align="justify">Gelaran tahunan festival diskon belanja terbesar di Jakarta hasil kerkerjasama Asosiasi Pengelola Pusat Belanja Indonesia (APPBI) dengan Pemerintah Provinsi (Pemprov) DKI Jakarta kembali diselenggarakan. Rangkaian acara Festival Jakarta Great Sale (FJFJGS) 2017 resmi dimulai pada Jumat sore, 2 Juni 2017 dalam sebuah opening ceremony yang dilangsungkan di Emporium Pluit Mal, Jakarta. FJGS 2017 yang diselenggarakan menyambut dan merayakan Hari Ulang Tahun Kota Jakarta ke-490, berlangsung mulai dar</p>
+			<a href="berita-detail.php?newsid=34" class=" view">SELENGKAPNYA &raquo;</a>
+		</div>
+	</div>
+		
+			
+</div>
+							
+							<div class="form chosen"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="sidebar">
+		
+	
+	<div class="spotlight">
+		<div class="spotlight-inside">
+			<h4>Buletin Januari 2021 - 2</h4>
+			<a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">
+			<img src="download/A.jpg?h=233&amp;w=182" alt="Buletin Januari 2021 - 2" width="182" height="116" style="margin:2px 0 4px 0;"/></a>
+			<h3 align="center"><a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">CONTOH</a></h3>
+						</div>
+					</div>
+		
+	<div class="spotlight">
+		<div class="spotlight-inside">
+			<h4>Buletin Januari 2021 - 1</h4>
+			<a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">
+			<img src="download/B.jpg?h=233&amp;w=182" alt="Buletin Januari 2021 - 1" width="182" height="116" style="margin:2px 0 4px 0;"/></a>
+			<h3 align="center"><a href="http://www.secureparking" target="_blank">CONTOH</a></h3>
+						</div>
+					</div>
+
+	<div class="spotlight">
+		<div class="spotlight-inside">
+			<h4>Buletin Oktober 2020 2</h4>
+			<a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">
+			<img src="download/C.jpg?h=233&amp;w=182" alt="Buletin Oktober 2020 2" width="182" height="116" style="margin:2px 0 4px 0;"/></a>
+			<h3 align="center"><a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">CONTOH</a></h3>
+						</div>
+					</div>
+		
+	<div class="spotlight">
+		<div class="spotlight-inside">
+			<h4>Buletin Oktober 2020 1</h4>
+			<a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">
+			<img src="download/D.jpg?h=233&amp;w=182" alt="Buletin Oktober 2020 1" width="182" height="116" style="margin:2px 0 4px 0;"/></a>
+			<h3 align="center"><a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">CONTOH</a></h3>
+						</div>
+					</div>
+		
+	<div class="spotlight">
+		<div class="spotlight-inside">
+			<h4>Buletin Juli 2020 2</h4>
+			<a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">
+			<img src="download/E.jpg?h=233&amp;w=182" alt="Buletin Juli 2020 2" width="182" height="116" style="margin:2px 0 4px 0;"/></a>
+			<h3 align="center"><a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">CONTOH</a></h3>
+						</div>
+					</div>
+		
+	<div class="spotlight">
+		<div class="spotlight-inside">
+			<h4>Buletin Juli 2020 1</h4>
+			<a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">
+			<img src="download/F.jpg?h=233&amp;w=182" alt="Buletin Juli 2020 1" width="182" height="116" style="margin:2px 0 4px 0;"/></a>
+			<h3 align="center"><a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">CONTOH</a></h3>
+						</div>
+					</div>
+		
+	<div class="spotlight">
+		<div class="spotlight-inside">
+			<h4>Buletin April 2020 2</h4>
+			<a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">
+			<img src="download/G.jpg?h=233&amp;w=182" alt="Buletin April 2020 2" width="182" height="116" style="margin:2px 0 4px 0;"/></a>
+			<h3 align="center"><a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">CONTOH</a></h3>
+						</div>
+					</div>
+		
+	<div class="spotlight">
+		<div class="spotlight-inside">
+			<h4>Buletin April 2020 1</h4>
+			<a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">
+			<img src="download/H.jpg?h=233&amp;w=182" alt="Buletin April 2020 1" width="182" height="116" style="margin:2px 0 4px 0;"/></a>
+			<h3 align="center"><a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">CONTOH</a></h3>
+						</div>
+					</div>
+		
+	<div class="spotlight">
+		<div class="spotlight-inside">
+			<h4>Edisi Jan 2020 (2)</h4>
+			<a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">
+			<img src="download/I.jpg?h=233&amp;w=182" alt="Edisi Jan 2020 (2)" width="182" height="116" style="margin:2px 0 4px 0;"/></a>
+			<h3 align="center"><a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">CONTOH</a></h3>
+						</div>
+					</div>
+		
+	<div class="spotlight">
+		<div class="spotlight-inside">
+			<h4>Edisi Jan 2020 (1)</h4>
+			<a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">
+			<img src="download/J.jpg?h=233&amp;w=182" alt="Edisi Jan 2020 (1)" width="182" height="116" style="margin:2px 0 4px 0;"/></a>
+			<h3 align="center"><a href="http://www.secureparking.co.id/download/boomgate/" target="_blank">CONTOH</a></h3>
+						</div>
+					</div>
+	</div>
+        </div>
+    </div>
+</div>
+<div id="footer">
+    <div class="position">
+        <div class="content">
+            <div class="view-countries part-countries">
+                <div class="countries-list">
+                    <ul class="countries"><li>
+						<a href="http://www.secureparking.com.au/" target="_blank">JAKARTA</a></li><li>
+						<a href="http://www.secureparking.co.nz/" target="_blank">BOGOR</a></li><li>
+						<a href="http://secure-parking.co.uk/" target="_blank">DEPOK</a></li><li>
+						<a href="http://www.secureparking.com.my/" target="_blank">TANGGERANG</a></li><li>
+						<a href="http://www.secureparking.com.sg/" target="_blank">BEKASI</a></li><li>
+						<a href="http://www.secureparking.co.in/" target="_blank">BANDUNG</a></li><li>
+						<a href="http://www.secureparking.com.cn/" target="_blank">SEMARANG</a></li><li>
+						<a href="http://www.secureparking.com.lb/" target="_blank">SURABAYA</a></li></ul>
+                    </div>
+                    <a href="#" class="show">LIHAT SEMUA</a>
+                </div>
+                <div class="view-countries all-countries">
+                    <div class="countries-list">
+                        <ul class="countries">
+							<li><a href="http://www.secureparking.com.au/" target="_blank">CISOLOK</a></li>
+							<li><a href="http://www.secureparking.co.nz/" target="_blank">JAMPANG</a></li>
+							<li><a href="http://secure-parking.co.uk/" target="_blank">CIKOKOL</a></li>
+							<li><a href="http://www.secureparking.com.my/" target="_blank">CIKIDANG</a></li>
+							<li><a href="http://www.secureparking.com.sg/" target="_blank">SINGAPARNA</a></li>
+							<li><a href="http://www.secureparking.co.in/" target="_blank">SOREANG</a></li>
+							<li><a href="http://www.secureparking.com.cn/" target="_blank">JONGGOL</a></li>
+							<li><a href="http://www.secureparking.com.lb/" target="_blank">CIBADUYUT</a></li>
+						</ul>
+                    </div>
+                    <a href="#" class="hide">SEMBUNYIKAN</a>
+                </div>
+                <div class="footer-links">
+                    <p class="copyright">&copy; 2021 PT. RAWALITU PARKING</p>
+					<ul class="footer-nav">
+						<li><a href="kontak.php">Kontak</a></li>
+						<li><a href="sitemap.php">Sitemap</a></li>
+					</ul>
+                </div>
+                <span id="spCountryCode" class="spCountryCode" name="spCountryCode" style="display: none">ID</span>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<script type="text/javascript" src="js/new/jquery-1.6.2.min.js"></script>
+    
+    
+<script type="text/javascript">
+
+	var Page_Validators =  new Array(document.getElementById("MyLoginStatus_LoginControl_requiredEmailAddr2"), document.getElementById("MyLoginStatus_LoginControl_RegularEmailAddr2"));
+
+</script>
+
+<script type="text/javascript">
+
+	var MyLoginStatus_LoginControl_requiredEmailAddr2 = document.all ? document.all["MyLoginStatus_LoginControl_requiredEmailAddr2"] : document.getElementById("MyLoginStatus_LoginControl_requiredEmailAddr2");
+	MyLoginStatus_LoginControl_requiredEmailAddr2.controltovalidate = "MyLoginStatus_LoginControl_txtEmail_2";
+	MyLoginStatus_LoginControl_requiredEmailAddr2.errormessage = "Email Address can not be Empty.";
+	MyLoginStatus_LoginControl_requiredEmailAddr2.display = "Dynamic";
+	MyLoginStatus_LoginControl_requiredEmailAddr2.validationGroup = "forgetPwdGroup";
+	MyLoginStatus_LoginControl_requiredEmailAddr2.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+	MyLoginStatus_LoginControl_requiredEmailAddr2.initialvalue = "";
+	var MyLoginStatus_LoginControl_RegularEmailAddr2 = document.all ? document.all["MyLoginStatus_LoginControl_RegularEmailAddr2"] : document.getElementById("MyLoginStatus_LoginControl_RegularEmailAddr2");
+	MyLoginStatus_LoginControl_RegularEmailAddr2.controltovalidate = "MyLoginStatus_LoginControl_txtEmail_2";
+	MyLoginStatus_LoginControl_RegularEmailAddr2.errormessage = "The Email Address is not valid.";
+	MyLoginStatus_LoginControl_RegularEmailAddr2.display = "Dynamic";
+	MyLoginStatus_LoginControl_RegularEmailAddr2.validationGroup = "forgetPwdGroup";
+	MyLoginStatus_LoginControl_RegularEmailAddr2.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+	MyLoginStatus_LoginControl_RegularEmailAddr2.validationexpression = "\\w+([-+.\']\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*";
+
+</script>
+
+
+<script type="text/javascript">
+
+
+	var Page_ValidationActive = false;
+	if (typeof(ValidatorOnLoad) == "function") {
+		ValidatorOnLoad();
+	}
+
+	function ValidatorOnSubmit() {
+		if (Page_ValidationActive) {
+			return ValidatorCommonOnSubmit();
+		}
+		else {
+			return true;
+		}
+	}
+        
+	document.getElementById('MyLoginStatus_LoginControl_requiredEmailAddr2').dispose = function() {
+		Array.remove(Page_Validators, document.getElementById('MyLoginStatus_LoginControl_requiredEmailAddr2'));
+	}
+
+	document.getElementById('MyLoginStatus_LoginControl_RegularEmailAddr2').dispose = function() {
+		Array.remove(Page_Validators, document.getElementById('MyLoginStatus_LoginControl_RegularEmailAddr2'));
+	}
+	Sys.Application.add_init(function() {
+		$create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"MyLoginStatus_LoginControl_UpdPanelLogin","displayAfter":500,"dynamicLayout":true}, null, null, $get("MyLoginStatus_LoginControl_UpdateProgress1"));
+	});
+
+</script>
+</form>
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;libraries=places&amp;v=3.10"></script>
+    <script type="text/javascript" src="js/new/prod.min.js"></script>
+</body>
+</html>
